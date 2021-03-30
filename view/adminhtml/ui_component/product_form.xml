@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright © Websolute spa. All rights reserved.
+  ~ See LICENSE and/or COPYING.txt for license details.
+  -->
+
+<form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Ui:etc/ui_configuration.xsd">
+    <argument name="data" xsi:type="array">
+        <item name="buttons" xsi:type="array">
+            <item name="stock-sync" xsi:type="string">Websolute\TransporterSync\Block\Adminhtml\Product\Edit\Button\Sync\Virtual</item>
+        </item>
+    </argument>
+</form>
